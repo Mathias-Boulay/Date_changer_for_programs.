@@ -4,5 +4,5 @@ This little .bat file is a workaround for certains programs that refuse to execu
 You just need to change the TARGETED_YEAR and the TARGET_DIRECTORY lines to get started.
 
 # Known issues:
-- This script MUST be without spaces or any kind a special caracters.
-- If there is already an instance of the targeted program, it may not work.
+- The script's name MUST be without spaces or any kind of special characters.
+- If there is already an instance of the targeted program, it may not work (eg. Notepad ++).
